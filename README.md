@@ -1,36 +1,40 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 📖 Diavocional
 
-## Getting Started
+**Diavocional** é um aplicativo cristão moderno e minimalista criado para fortalecer sua fé diariamente. Com conteúdo devocional, planos de leitura bíblica, versículos em destaque, louvores e hinos, ele foi projetado para proporcionar uma experiência espiritual profunda e acessível em qualquer lugar.
 
-First, run the development server:
+## ✨ Funcionalidades
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+- 📜 **Devocionais temáticos**  
+  Conteúdos inspiradores como "Minuto de Sabedoria", "Devocional da Manhã", "Devocional para Ansiedade", entre outros.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+- 📖 **Plano de leitura bíblica**  
+  Incluindo:
+  - Bíblia em 1 ano  
+  - Novo Testamento em 60 dias  
+  - Planos de Gratidão  
+  - Os Evangelhos
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+- 📚 **Versículo do dia**  
+  Um versículo diário para reflexão e meditação.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+- 🎵 **Louvores & Hinos**  
+  Reprodutor integrado para ouvir músicas cristãs diretamente no app.
 
-## Learn More
+- 🧠 **Favoritos e progresso**  
+  Salve devocionais e músicas favoritas, acompanhe seu progresso nos planos de leitura.
 
-To learn more about Next.js, take a look at the following resources:
+- 🔒 **Autenticação segura**  
+  Com o Clerk, garantindo login e registro de forma prática e confiável.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+---
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## 🧭 Jornada do Usuário
 
-## Deploy on Vercel
+1. O usuário acessa o app com uma interface acolhedora e limpa.
+2. Pode navegar livremente pelos conteúdos devocionais.
+3. Ao se registrar, desbloqueia funcionalidades como salvar favoritos e acompanhar planos de leitura.
+4. Escolhe planos de leitura ou playlists devocionais.
+5. Recebe um versículo novo a cada dia.
+6. Progride em seu crescimento espiritual com uma experiência personalizada.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+---
